@@ -102,7 +102,7 @@
 # Output:	1 9
 #
 # ...
-# N = int(input('Введите вес арбуза: '))
+# N = int(input('Введите кол-во арбузов: '))
 # sp = []
 # for i in range(N):
 #     sp.append(int(input()))
