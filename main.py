@@ -1,6 +1,0 @@
-print('Введите первое число')
-a = input()
-print('Введите второе число')
-b = input()
-sum(a + b)
-print(sum)
